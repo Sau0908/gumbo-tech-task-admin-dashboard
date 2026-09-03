@@ -1,4 +1,6 @@
-# Verdant Admin Dashboard
+# gumbo-tech-task-admin-dashboard
+
+# Admin Dashboard
 
 Responsive React + TypeScript admin panel for the `core-backend` e-commerce API.
 
@@ -35,8 +37,6 @@ Admin registration is intentionally unavailable. Create the first admin as docum
 ```bash
 npm run build
 ```
-
-# gumbo-tech-task-admin-dashboard
 
 ## Incomplete Features
 
