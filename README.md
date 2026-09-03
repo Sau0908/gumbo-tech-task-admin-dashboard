@@ -35,4 +35,10 @@ Admin registration is intentionally unavailable. Create the first admin as docum
 ```bash
 npm run build
 ```
+
 # gumbo-tech-task-admin-dashboard
+
+## Incomplete Features
+
+- Payment Gateway integration is not implemented
+- Bonus features (Wishlist, Reviews, Coupons, Notifications, Unit tests, Swagger, Image upload) are not implemented
